@@ -1,7 +1,7 @@
 // Jordan Steer-Furderer
 // CIS 25
-// This program determines how many classes per semester Keanu will miss based due to his
-// Hearthstone habit. It works by generating a random number between 0 and 2
+// This program determines how many classes per semester Keanu will miss due to his
+// Hearthstone habit. It works by generating a random number between 0 and 2.
 //#include "pch.h"
 #include <iostream>
 #include <ctime>
